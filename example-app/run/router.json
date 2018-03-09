@@ -1,0 +1,28 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/",
+    "regexp": "/^(?:\\/(?=$))?$/",
+    "stack": [
+      "f:\\code\\egg-rely\\example-app\\app\\controller\\home.js#Home.isIOS()"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/framework",
+    "regexp": "/^\\/framework(?:\\/(?=$))?$/",
+    "stack": [
+      "f:\\code\\egg-rely\\example-app\\app\\controller\\home.js#Home.getFramework()"
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+2018-03-07 23:12:41,537 ERROR 10388 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 10388
+hostname: DESKTOP-PLP1QUM
+
+2018-03-07 23:20:20,757 ERROR 10544 [-/127.0.0.1/-/2ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 10544
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 21:27:08,864 ERROR 9380 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 9380
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 22:29:48,043 ERROR 1260 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 1260
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 22:31:39,076 ERROR 9356 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 9356
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 22:41:50,845 ERROR 10652 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 10652
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 22:56:54,575 ERROR 11540 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11540
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 23:06:30,747 ERROR 11720 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11720
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 23:18:58,141 ERROR 9484 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 9484
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 23:25:00,583 ERROR 11472 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11472
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 23:36:37,832 ERROR 11836 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11836
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 23:37:15,189 ERROR 11340 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11340
+hostname: DESKTOP-PLP1QUM
+
+2018-03-08 23:49:30,273 ERROR 11316 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11316
+hostname: DESKTOP-PLP1QUM
+
+2018-03-09 21:53:09,563 ERROR 8148 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 8148
+hostname: DESKTOP-PLP1QUM
+
+2018-03-09 22:23:25,965 ERROR 11280 [-/127.0.0.1/-/1ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11280
+hostname: DESKTOP-PLP1QUM
+
+2018-03-09 22:35:17,153 ERROR 4476 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 4476
+hostname: DESKTOP-PLP1QUM
+
+2018-03-09 22:36:52,788 ERROR 11568 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 11568
+hostname: DESKTOP-PLP1QUM
+
+2018-03-09 22:45:35,675 ERROR 2320 [-/127.0.0.1/-/0ms GET /] nodejs.Error: [ClusterClient] leader does not be active in 30000ms on port:undefined
+    at Function.waitFor (F:\code\egg-rely\example-framework\node_modules\cluster-client\lib\server.js:239:15)
+    at waitFor.next (<anonymous>)
+    at onFulfilled (F:\code\egg-rely\example-framework\node_modules\co\index.js:65:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 2320
+hostname: DESKTOP-PLP1QUM
+

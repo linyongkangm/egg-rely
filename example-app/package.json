@@ -1,0 +1,22 @@
+{
+  "name": "progressive",
+  "version": "1.0.0",
+  "private": true,
+  "egg": {
+    "framework": "example-framework"
+  },
+  "dependencies": {
+    "example-framework": "../example-framework"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5",
+    "egg-mock": "^3.13.1"
+  },
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov",
+    "rely" : "node ./rely",
+    "debug" : "node  --nolazy --inspect-brk=9229  ./rely"
+  }
+}
